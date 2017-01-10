@@ -114,7 +114,7 @@ pre {
 #catherine {
   background-image: url("../img/cath.jpg");
   height: 1000px; }
-  @media screen and (max-width: 600px) {
+  @media screen and (max-width: 500px) {
     #catherine {
       background-image: url("../assets/img/cath-mobile.jpg"); } }
 
@@ -137,6 +137,12 @@ button {
 a.rules {
   color: white;
   text-decoration: none; }
+
+.clue-pic{
+  width:500px;
+  border-radius:15px;
+  margin-left:10%;
+}
 
 /**
  * Wrapper

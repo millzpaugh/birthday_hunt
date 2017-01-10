@@ -5,3 +5,16 @@ date:   2017-01-09 18:29:05 -0800
 categories: jekyll update
 ---
 
+<h1>Serenity Now!</h1>
+<h3>You’re a Rockstar!</h3>
+<img class="clue-pic" src="https://en.wikipedia.org/wiki/List_of_public_art_in_Washington,_D.C.,_Ward_1#/media/File:Serenity_statue_-_Washington,_D.C..jpg">
+<br>
+<p>“Serenity” is a large sculpture of an allegorical woman wearing flowing classical robes by Spanish artist Josep Clarà. American naval officer Charles Deering bought the sculpture at the Paris Exhibition in 1900. An identical sculpture titled "Serenidad” sits in Luxembourg.
+</p>
+<hr>
+<h2>The Task</h2>
+<p>Film a 2-minute rap eulogizing Catherine in front of a badass female martyr. One bonus point for the best video and/or lyrics.
+</p>
+
+<h2>Your Next Clue</h2>
+<p>DD => MGRS-18SUJ2353109886</p>

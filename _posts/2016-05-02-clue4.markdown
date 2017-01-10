@@ -5,3 +5,16 @@ date:   2017-01-09 18:29:05 -0800
 categories: jekyll update
 ---
 
+<h1> It's a wave, not a salute! All that glitters isn't gold!</h1>
+
+<img class="clue-pic" src="https://www.flickr.com/photos/81313254@N00/2321994317">
+<br>
+<p>"Canto a la Esperanza (“A Song for Hope") is a mural designed by Jorge Somarriba and painted by Latin American Youth Center members in 1988. The mural features regions of the world and hopes for world peace and was painted to cover a wall of graffiti.
+</p>
+<hr>
+<h2>The Task</h2>
+<p>Play two rounds of duck-duck-goose at this 1991 Herbert House Sculpture. Hint: It's no longer located on Howard University's campus.
+</p>
+
+<h2>Your Next Clue</h2>
+<p>Dennis Nedry used this type of "dead-drop" to steal dino embryos in 1993. You'll find it in the spookiest cellar in Mt. Pleasant. Zoinks!</p>
