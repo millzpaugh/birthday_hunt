@@ -11,8 +11,9 @@ categories: jekyll update
 <br>
 <p>The residents of this Columbia Heights Condominium commissioned DC native and Berlin-based artist James Bullough to create this mural, titled “Tin Can Telephone”, in 2014. Bullough’s style blends graffiti with photorealistic portraiture. He designed the piece around the theme of communication and the rapidly changing demographics of the Columbia Heights neighborhood.
 </p>
+<br>
 <hr>
-<h2>The Task</h2>
+<br><h2>The Task</h2>
 <p>Film a 2-minute interpretative dance in the CH Civic Plaza. The ideal dance will include a celebration of Catherine's virtues, vices, and incisive spiciness. One bonus point for every three strangers that dance with the group. One bonus point for best dance.</p>
 
 <h2>Your Next Clue</h2>

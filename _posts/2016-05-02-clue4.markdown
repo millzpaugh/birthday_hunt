@@ -11,8 +11,9 @@ categories: jekyll update
 <br>
 <p>"Canto a la Esperanza (“A Song for Hope") is a mural designed by Jorge Somarriba and painted by Latin American Youth Center members in 1988. The mural features regions of the world and hopes for world peace and was painted to cover a wall of graffiti.
 </p>
+<br>
 <hr>
-<h2>The Task</h2>
+<br><h2>The Task</h2>
 <p>Play two rounds of duck-duck-goose at this 1991 Herbert House Sculpture. Hint: It's no longer located on Howard University's campus.
 </p>
 

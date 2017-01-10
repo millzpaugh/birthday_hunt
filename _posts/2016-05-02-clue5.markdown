@@ -11,8 +11,9 @@ categories: jekyll update
 <br>
 <p>“Serenity” is a large sculpture of an allegorical woman wearing flowing classical robes by Spanish artist Josep Clarà. American naval officer Charles Deering bought the sculpture at the Paris Exhibition in 1900. An identical sculpture titled "Serenidad” sits in Luxembourg.
 </p>
+<br>
 <hr>
-<h2>The Task</h2>
+<br><h2>The Task</h2>
 <p>Film a 2-minute rap eulogizing Catherine in front of a badass female martyr. One bonus point for the best video and/or lyrics.
 </p>
 
