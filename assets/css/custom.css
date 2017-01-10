@@ -116,7 +116,7 @@ pre {
   height: 1000px; }
   @media screen and (max-width: 500px) {
     #catherine {
-      background-image: url("../assets/img/cath-mobile.jpg"); } }
+      background-image: url("../img/cath-mobile.jpg"); } }
 
 #birthday {
   color: white;
