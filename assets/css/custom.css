@@ -141,7 +141,7 @@ a.rules {
 .clue-pic{
   width:500px;
   border-radius:15px;
-  margin-left:10%;
+  margin: 0 auto;
 }
 
 /**
