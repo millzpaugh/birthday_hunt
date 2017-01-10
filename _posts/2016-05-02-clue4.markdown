@@ -13,7 +13,8 @@ categories: jekyll update
 </p>
 <br>
 <hr>
-<br><h2>The Task</h2>
+<br>
+<h2>The Task</h2>
 <p>Play two rounds of duck-duck-goose at this 1991 Herbert House Sculpture. Hint: It's no longer located on Howard University's campus.
 </p>
 

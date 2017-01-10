@@ -13,7 +13,8 @@ categories: jekyll update
 </p>
 <br>
 <hr>
-<br><h2>The Task</h2>
+<br>
+<h2>The Task</h2>
 <p>Pose for a group photo in Lamont park. The pose should include a reference to Catherine's first, middle, and last initial. One bonus point for every three strangers that pose for the photo. One bonus point for the best photo.</p>
 
 <h2>Your Next Clue</h2>

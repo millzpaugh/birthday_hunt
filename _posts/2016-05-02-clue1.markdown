@@ -13,5 +13,5 @@ categories: jekyll update
 <br>
 <hr>
 <br>
-<h2>The Tasks</h2>
+<h2>The Task</h2>
 <p>Snap a group photo in front of the oldest house in Mount Pleasant. One bonus point if the pose includes a current resident.</p>

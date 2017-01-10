@@ -13,7 +13,9 @@ categories: jekyll update
 </p>
 <br>
 <hr>
-<br><h2>The Task</h2>
+<br>
+
+<h2>The Task</h2>
 <p>Film a 2-minute rap eulogizing Catherine in front of a badass female martyr. One bonus point for the best video and/or lyrics.
 </p>
 
