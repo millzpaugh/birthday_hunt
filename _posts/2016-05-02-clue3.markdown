@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Clue 3"
+date:   2017-01-09 18:29:05 -0800
+categories: jekyll update
+---
+
