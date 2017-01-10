@@ -7,7 +7,8 @@ categories: jekyll update
 
 <h1>Serenity Now!</h1>
 <h3>You’re a Rockstar!</h3>
-<img class="clue-pic" src="https://en.wikipedia.org/wiki/List_of_public_art_in_Washington,_D.C.,_Ward_1#/media/File:Serenity_statue_-_Washington,_D.C..jpg">
+<img class="clue-pic" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Serenity_statue_-_Washington%2C_D.C..jpg">
+
 <br>
 <p>“Serenity” is a large sculpture of an allegorical woman wearing flowing classical robes by Spanish artist Josep Clarà. American naval officer Charles Deering bought the sculpture at the Paris Exhibition in 1900. An identical sculpture titled "Serenidad” sits in Luxembourg.
 </p>
