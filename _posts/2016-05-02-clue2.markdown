@@ -16,6 +16,8 @@ categories: jekyll update
 <br>
 <h2>The Task</h2>
 <p>Film a 2-minute interpretative dance in the CH Civic Plaza. The ideal dance will include a celebration of Catherine's virtues, vices, and incisive spiciness. One bonus point for every three strangers that dance with the group. One bonus point for best dance.</p>
-
+<br>
+<hr>
+<br>
 <h2>Your Next Clue</h2>
 <p>DD => First racially integrated episcopal church (and punk music venue) in DC. Under Bench.</p>
