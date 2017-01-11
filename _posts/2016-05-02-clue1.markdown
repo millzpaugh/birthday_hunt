@@ -15,3 +15,8 @@ categories: jekyll update
 <br>
 <h2>The Task</h2>
 <p>Snap a group photo in front of the oldest house in Mount Pleasant. One bonus point if the pose includes a current resident.</p>
+<br>
+<hr>
+<br>
+<h2>Your Next Clue</h2>
+<p>TBD</p>
