@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "Clue 1"
+title:  "jfkldjaoise"
 date:   2017-01-09 18:29:05 -0800
 categories: jekyll update
 ---
+<h1 class="post-title" itemprop="name headline">Clue 1</h1>
 
 <h1>An NPS "lamp-post" heralding your descent into DC's Narnia…</h1>
 

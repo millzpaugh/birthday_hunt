@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "Clue 4"
+title:  "mjfkldjasfkld"
 date:   2017-01-09 18:29:05 -0800
 categories: jekyll update
 ---
+<h1 class="post-title" itemprop="name headline">Clue 4</h1>
 
 <h1> It's a wave, not a salute! All that glitters isn't gold!</h1>
 

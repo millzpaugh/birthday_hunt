@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Clue 3"
+title:  "ljfkdlasjfd"
 date:   2017-01-09 18:29:05 -0800
 categories: jekyll update
 ---
-
+<h1 class="post-title" itemprop="name headline">Clue 3</h1>
 <h1> It's a wave, not a salute! All that glitters isn't gold!</h1>
 
 <img class="clue-pic" src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Guglielmo_Marconi_Memorial.JPG">

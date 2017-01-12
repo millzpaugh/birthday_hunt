@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Clue 5"
+title:  "njfkldsajf"
 date:   2017-01-09 18:29:05 -0800
 categories: jekyll update
 ---
-
+<h1 class="post-title" itemprop="name headline">Clue 5</h1>
 <h1>Serenity Now!</h1>
 <h3>You’re a Rockstar!</h3>
 <img class="clue-pic" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Serenity_statue_-_Washington%2C_D.C..jpg">
