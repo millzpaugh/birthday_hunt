@@ -10,6 +10,7 @@ categories: jekyll update
 
 <img class="clue-pic" src="http://diary.thepurplepassport.com/wp-content/uploads/Welcome-to-Rock-Creek-Park-.jpg">
 <br>
+<p>Nice Job! You found the QR code for clue #1!</p>
 <p>Congress created Rock Creek Park in 1890. At the time, it was the third national park to be established in the U.S. and it remains the oldest natural urban park in the country.  President Theodore Roosevelt famously rode horseback, hiked, and skinny-dipped in Rock Creek Park. He arrived so often via this 17th street entrance that Washingtonians dubbed it the “Roosevelt Entrance”.</p>
 <br>
 <hr>
@@ -20,4 +21,11 @@ categories: jekyll update
 <hr>
 <br>
 <h2>Your Next Clue</h2>
-<p>TBD</p>
+<p>SARNEG:<br>
+The # for the most famous bakery in Mt. Pleasant => TAT-THS-FFHK
+The # for the DD => HEA-ECR-KSKS
+<br>
+0123456789
+<br>
+[Cipher = 10-digit word meaning “tremor” or “convulsion” after a major incident]
+</p>

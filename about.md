@@ -10,14 +10,13 @@ permalink: /rules/
 	<li>Be creative.</li>
 	<li>Stay together at all times.</li>
 	<li>Leave clues, codes, or puzzles where you find them.</li>
-	<li>The hunt ends at 3:20 pm sharp!</li>
+	<li>The hunt ends at 3:15 pm sharp!</li>
 	<li>Everything else - googling, running, double-dealing - is fair game! Just don’t get arrested!</li>
 </ol>
 
 <p>At least one person on your team will need to install a QR reader on their phone. Any of the following apps should work for you:</p>
 
 <ul>
-	<li>Android and iPhone</li>
 	<li>Bar-Code</li>
 	<li>Quick Scan</li>
 	<li>Scan’s QR Code Reader</li>

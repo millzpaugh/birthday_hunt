@@ -10,6 +10,7 @@ categories: jekyll update
 <img class="clue-pic" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Serenity_statue_-_Washington%2C_D.C..jpg">
 
 <br>
+<p>You’re a Rockstar! You found the QR code for clue #5!</p>
 <p>“Serenity” is a large sculpture of an allegorical woman wearing flowing classical robes by Spanish artist Josep Clarà. American naval officer Charles Deering bought the sculpture at the Paris Exhibition in 1900. An identical sculpture titled "Serenidad” sits in Luxembourg.
 </p>
 <br>
@@ -17,7 +18,7 @@ categories: jekyll update
 <br>
 
 <h2>The Task</h2>
-<p>Film a 2-minute rap eulogizing Catherine in front of a badass female martyr. One bonus point for the best video and/or lyrics.
+<p>Film a 30 second rap eulogizing Catherine in front of a badass female martyr. One bonus point for the best video and/or lyrics.
 </p>
 <br>
 <hr>

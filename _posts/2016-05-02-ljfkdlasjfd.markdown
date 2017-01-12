@@ -9,6 +9,8 @@ categories: jekyll update
 
 <img class="clue-pic" src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Guglielmo_Marconi_Memorial.JPG">
 <br>
+<p>Woohoo! You found the QR code for clue #3!</p>
+
 <p>"Guglielmo Marconi" is a public artwork memorializing the Italian inventor of the same name. Private citizens erected the monument in 1941 amidst a sea of controversy - Marconi was strongly identified with Italian fascism and residents questioned the motives for dedicating the statue during WWII. According to the sculptor, Attilio Piccirilli, the bronze woman at the top of the monument is an allegory for "the Wave" and represents Marconi's contribution to science, not a political theme.
 </p>
 <br>
