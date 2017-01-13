@@ -19,8 +19,8 @@ categories: jekyll update
 <h2>The Task</h2>
 <p>Play two rounds of duck-duck-goose at this 1991 Herbert House Sculpture. Hint: It's no longer located on Howard University's campus.
 </p>
-<img src="<img class="clue-pic" src="https://img.washingtonpost.com/rf/image_1484w/2010-2019/WashingtonPost/2015/11/11/Local/Images/familycircle31447284851.jpg">
-<img src="<img class="clue-pic" src="https://img.washingtonpost.com/rf/image_1024w/2010-2019/WashingtonPost/2015/11/11/Local/Images/famlycircle21447284852.jpg">
+<img src="https://img.washingtonpost.com/rf/image_1484w/2010-2019/WashingtonPost/2015/11/11/Local/Images/familycircle31447284851.jpg">
+<img src="https://img.washingtonpost.com/rf/image_1024w/2010-2019/WashingtonPost/2015/11/11/Local/Images/famlycircle21447284852.jpg">
 <br>
 <hr>
 <br>
